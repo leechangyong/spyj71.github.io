@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: 국가별 랭크 현황
 permalink: /Ranking/
 ---
