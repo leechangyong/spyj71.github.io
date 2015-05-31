@@ -1,6 +1,6 @@
 ---
 layout: page
-Title: 클럽 정보
+title: 클럽 정보
 Permalink: /Clubs/
 ---
 
