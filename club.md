@@ -1,6 +1,7 @@
 ---
+layout: page
 Title: 클럽 정보
-Permalink: /about/
+Permalink: /About/
 ---
 
  번호  | 클럽이름  | 클럽위치 | 운동시간
